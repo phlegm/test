@@ -1,6 +1,9 @@
-test
-====
+<?php 
 
-test
+$greet = "Hello";
 
-$connector->setPassword('yohoho123', true);
+// this could be print or echo
+
+print "<b>$greet World!</b>";
+
+?>
